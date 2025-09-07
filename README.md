@@ -1,7 +1,5 @@
 # Instagram Clone
 
-![Img](https://res.cloudinary.com/dg18lu61g/image/upload/v1697530320/projects%20thumbnails/Screenshot_2023-10-17_at_13-38-26_Instagram_Clone_1_ifmllb.png)
-
 ### Features:
 
 - Authentication via google oauth & JWT.
